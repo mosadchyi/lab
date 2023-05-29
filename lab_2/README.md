@@ -1,1 +1,2 @@
-#lab_3
+#lab_2
+$ git clone https://github.com/mosadchyi/lab
